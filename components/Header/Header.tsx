@@ -6,7 +6,6 @@ export default function Header() {
         <View style={headerStyles.headerContainer}>
             <Text style={headerStyles.textTurn}>Turn On/Off</Text>
         </View>
-    )
-
+    );
 }
 

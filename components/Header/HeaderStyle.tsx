@@ -1,4 +1,3 @@
-
 import { StyleSheet } from "react-native";
 
 export const headerStyles = StyleSheet.create({
@@ -15,6 +14,4 @@ export const headerStyles = StyleSheet.create({
         color: '#fff',
         fontWeight: 'bold',
     },
-
-
 })

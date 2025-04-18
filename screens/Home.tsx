@@ -17,7 +17,6 @@ export default function Home() {
 
             <Lamp />
 
-            {/* Perguntar se o componente button será chamado na home ou no components Lamp, já que faz parte do mesmo conteúdo */}
             <Button />
 
             <Footer />
